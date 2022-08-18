@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/blockhash/Desktop/oxenmq_example/client/build/oxen-mq",
+  "command": "/usr/bin/c++  -Doxenmq_EXPORTS -I/home/blockhash/Desktop/oxenmq_example/client/oxen-mq -I/home/blockhash/Desktop/oxenmq_example/client/oxen-mq/cppzmq  -fPIC   -Wall -Wextra -Werror -pthread -std=c++17 -o CMakeFiles/oxenmq.dir/oxenmq/address.cpp.o -c /home/blockhash/Desktop/oxenmq_example/client/oxen-mq/oxenmq/address.cpp",
+  "file": "/home/blockhash/Desktop/oxenmq_example/client/oxen-mq/oxenmq/address.cpp"
+},
+{
+  "directory": "/home/blockhash/Desktop/oxenmq_example/client/build/oxen-mq",
+  "command": "/usr/bin/c++  -Doxenmq_EXPORTS -I/home/blockhash/Desktop/oxenmq_example/client/oxen-mq -I/home/blockhash/Desktop/oxenmq_example/client/oxen-mq/cppzmq  -fPIC   -Wall -Wextra -Werror -pthread -std=c++17 -o CMakeFiles/oxenmq.dir/oxenmq/auth.cpp.o -c /home/blockhash/Desktop/oxenmq_example/client/oxen-mq/oxenmq/auth.cpp",
+  "file": "/home/blockhash/Desktop/oxenmq_example/client/oxen-mq/oxenmq/auth.cpp"
+},
+{
+  "directory": "/home/blockhash/Desktop/oxenmq_example/client/build/oxen-mq",
+  "command": "/usr/bin/c++  -Doxenmq_EXPORTS -I/home/blockhash/Desktop/oxenmq_example/client/oxen-mq -I/home/blockhash/Desktop/oxenmq_example/client/oxen-mq/cppzmq  -fPIC   -Wall -Wextra -Werror -pthread -std=c++17 -o CMakeFiles/oxenmq.dir/oxenmq/connections.cpp.o -c /home/blockhash/Desktop/oxenmq_example/client/oxen-mq/oxenmq/connections.cpp",
+  "file": "/home/blockhash/Desktop/oxenmq_example/client/oxen-mq/oxenmq/connections.cpp"
+},
+{
+  "directory": "/home/blockhash/Desktop/oxenmq_example/client/build/oxen-mq",
+  "command": "/usr/bin/c++  -Doxenmq_EXPORTS -I/home/blockhash/Desktop/oxenmq_example/client/oxen-mq -I/home/blockhash/Desktop/oxenmq_example/client/oxen-mq/cppzmq  -fPIC   -Wall -Wextra -Werror -pthread -std=c++17 -o CMakeFiles/oxenmq.dir/oxenmq/jobs.cpp.o -c /home/blockhash/Desktop/oxenmq_example/client/oxen-mq/oxenmq/jobs.cpp",
+  "file": "/home/blockhash/Desktop/oxenmq_example/client/oxen-mq/oxenmq/jobs.cpp"
+},
+{
+  "directory": "/home/blockhash/Desktop/oxenmq_example/client/build/oxen-mq",
+  "command": "/usr/bin/c++  -Doxenmq_EXPORTS -I/home/blockhash/Desktop/oxenmq_example/client/oxen-mq -I/home/blockhash/Desktop/oxenmq_example/client/oxen-mq/cppzmq  -fPIC   -Wall -Wextra -Werror -pthread -std=c++17 -o CMakeFiles/oxenmq.dir/oxenmq/oxenmq.cpp.o -c /home/blockhash/Desktop/oxenmq_example/client/oxen-mq/oxenmq/oxenmq.cpp",
+  "file": "/home/blockhash/Desktop/oxenmq_example/client/oxen-mq/oxenmq/oxenmq.cpp"
+},
+{
+  "directory": "/home/blockhash/Desktop/oxenmq_example/client/build/oxen-mq",
+  "command": "/usr/bin/c++  -Doxenmq_EXPORTS -I/home/blockhash/Desktop/oxenmq_example/client/oxen-mq -I/home/blockhash/Desktop/oxenmq_example/client/oxen-mq/cppzmq  -fPIC   -Wall -Wextra -Werror -pthread -std=c++17 -o CMakeFiles/oxenmq.dir/oxenmq/proxy.cpp.o -c /home/blockhash/Desktop/oxenmq_example/client/oxen-mq/oxenmq/proxy.cpp",
+  "file": "/home/blockhash/Desktop/oxenmq_example/client/oxen-mq/oxenmq/proxy.cpp"
+},
+{
+  "directory": "/home/blockhash/Desktop/oxenmq_example/client/build/oxen-mq",
+  "command": "/usr/bin/c++  -Doxenmq_EXPORTS -I/home/blockhash/Desktop/oxenmq_example/client/oxen-mq -I/home/blockhash/Desktop/oxenmq_example/client/oxen-mq/cppzmq  -fPIC   -Wall -Wextra -Werror -pthread -std=c++17 -o CMakeFiles/oxenmq.dir/oxenmq/worker.cpp.o -c /home/blockhash/Desktop/oxenmq_example/client/oxen-mq/oxenmq/worker.cpp",
+  "file": "/home/blockhash/Desktop/oxenmq_example/client/oxen-mq/oxenmq/worker.cpp"
+}
+]
