@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/handler.dir/handler.cpp.o  -o handler   -L/home/blockhash/Examples/zmq-omq-handler/handler/oxen-mq  -Wl,-rpath,/home/blockhash/Examples/zmq-omq-handler/handler/oxen-mq:/home/blockhash/Examples/zmq-omq-handler/handler/build/oxen-mq:/usr/local/lib oxen-mq/liboxenmq.so.0 /usr/local/lib/libzmq.so /usr/lib/x86_64-linux-gnu/libsodium.so 

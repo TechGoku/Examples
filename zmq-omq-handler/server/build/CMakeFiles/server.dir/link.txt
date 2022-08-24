@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/server.dir/server.cpp.o  -o server   -L/home/blockhash/Examples/zmq-omq-handler/server/oxen-mq  -Wl,-rpath,/home/blockhash/Examples/zmq-omq-handler/server/oxen-mq:/home/blockhash/Examples/zmq-omq-handler/server/build/oxen-mq:/usr/local/lib oxen-mq/liboxenmq.so.0 /usr/local/lib/libzmq.so /usr/lib/x86_64-linux-gnu/libsodium.so 
